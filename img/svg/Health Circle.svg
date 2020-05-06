@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" width="44" height="44">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1061 -679L859 -679L859 3117L-1061 3117Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Home" clip-path="url(#cp1)">
+		<path id="Health Circle" fill-rule="evenodd" class="shp0" d="M22 44C9.85 44 0 34.15 0 22C0 9.85 9.85 0 22 0C34.15 0 44 9.85 44 22C44 34.15 34.15 44 22 44ZM22 2C10.95 2 2 10.95 2 22C2 33.04 10.95 42 22 42C33.05 42 42 33.04 42 22C42 10.95 33.05 2 22 2ZM32 26L26 26L26 32C26 33.1 25.1 34 24 34L20 34C18.9 34 18 33.1 18 32L18 26L12 26C10.9 26 10 25.1 10 24L10 20C10 18.9 10.9 18 12 18L18 18L18 12C18 10.9 18.9 10 20 10L24 10C25.1 10 26 10.9 26 12L26 18L32 18C33.1 18 34 18.9 34 20L34 24C34 25.1 33.1 26 32 26ZM32 20L24 20L24 12L20 12L20 20L12 20L12 24L20 24L20 32L24 32L24 24L32 24L32 20Z" />
+	</g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" width="17" height="17">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1706 -65L214 -65L214 3731L-1706 3731Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Home" clip-path="url(#cp1)">
+		<g id="Component 23 – 1">
+			<g id="user">
+				<path id="Icon color" class="shp0" d="M15.01 16L1 16C0.65 16 0.33 15.82 0.15 15.52C-0.03 15.23 -0.05 14.86 0.11 14.55L1.55 11.66C2.06 10.64 3.09 10 4.24 10L11.76 10C12.91 10 13.94 10.64 14.46 11.66L15.9 14.55C16.05 14.86 16.04 15.23 15.86 15.52C15.67 15.82 15.35 16 15.01 16ZM8 8C6.93 8 5.93 7.58 5.17 6.83C4.42 6.07 4 5.07 4 4C4 1.79 5.8 0 8 0C10.21 0 12 1.79 12 4C12 6.21 10.21 8 8 8Z" />
+			</g>
+		</g>
+	</g>
+</svg>

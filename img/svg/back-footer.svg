@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1917 501" width="1917" height="501">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M1 -3132L1921 -3132L1921 664L1 664L1 -3132Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #2777d1 } 
+		.shp1 { fill: #1ca7ec } 
+	</style>
+	<g id="Clip-Path: Home" clip-path="url(#cp1)">
+		<g id="Home">
+			<g id="Component 1 – 1">
+				<path id="Rechthoek 12 kopiëren 5" class="shp0" d="M1921.05 0.24L1921.05 500.24L0.95 500.24L0.95 0.24L1921.05 0.24Z" />
+				<g id="Group 33">
+					<g id="Group 14" style="opacity: 0.4">
+						<path id="Path 45" class="shp1" d="M1591.47 499.97L1412 499.97L1837.54 0.01L2017.01 0.01L1591.47 499.97Z" />
+						<path id="Path 46" class="shp1" d="M1591.47 0.01L1412 0.01L1837.54 499.97L2017.01 499.97L1591.47 0.01Z" />
+					</g>
+					<g id="Group 15">
+						<path id="Path 47" class="shp1" d="M1804.27 249.98L1714.53 355.4L1591.48 499.96L1412 499.96L1624.79 249.98L1412 0L1591.48 0L1714.53 144.55L1804.27 249.98Z" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
